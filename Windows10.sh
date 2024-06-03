@@ -33,7 +33,7 @@ cd /userdata/roms/microsoft/windows10 && docker-compose up
 
 
 # Abrir Firefox com o endereço localhost
-#/userdata/system/pro/ffnightly/Launcher http://localhost:8006
+/userdata/system/pro/ffnightly/Launcher http://localhost:8006
 
 
 
