@@ -6,7 +6,8 @@ Instale Windows 7, 10 ou 11 No batocera.Linux
 
 <h3>Basta copiar o comando a baixo e colar no terminal do Batocera e dar enter,</h3>
 <br><br>
-
+[Nome do arquivo](https://drive.google.com/uc?export=download&id=SEU_ID_DO_ARQUIVO)
+<br><br>
 # Windows 7 pt-BR
 
 ```bash
