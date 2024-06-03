@@ -15,7 +15,7 @@ curl -L ffnightly.batocera.pro | bash
 mkdir -p /userdata/roms/microsoft
 mkdir -p /userdata/roms/microsoft/windows11
 
-curl -L -o /userdata/roms/microsoft/windows11/docker-compose.yml "https://github.com/JeversonDias/janelas/blob/main/roms/microsoft/windows11/docker-compose.yml"
+curl -L -o /userdata/roms/microsoft/windows11/docker-compose.yml "https://raw.githubusercontent.com/JeversonDias/Windows/main/roms/microsoft/windows11/docker-compose.yml"
 curl -o /userdata/roms/microsoft/windows11/Windows11.sh https://raw.githubusercontent.com/JeversonDias/Windows/main/roms/microsoft/windows11/Windows11.sh
 chmod +x /userdata/roms/microsoft/windows11/Windows11.sh
 
