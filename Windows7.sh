@@ -17,7 +17,7 @@ mkdir -p /userdata/roms/microsoft
 mkdir -p /userdata/roms/microsoft/windows7
 
 # Definir ID do arquivo
-curl -L -o /userdata/roms/microsoft/windows7/docker-compose.yml "https://github.com/JeversonDias/janelas/blob/main/roms/microsoft/Windows7/docker-compose.yml"
+curl -L -o /userdata/roms/microsoft/windows7/docker-compose.yml "https://raw.githubusercontent.com/JeversonDias/Windows/main/roms/microsoft/Windows7/docker-compose.yml"
 curl -o /userdata/roms/microsoft/windows7/Windows7.sh https://raw.githubusercontent.com/JeversonDias/Windows/main/roms/microsoft/Windows7/Windows7.sh
 chmod +x /userdata/roms/microsoft/windows7/Windows7.sh
 
