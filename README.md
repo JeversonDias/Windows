@@ -4,7 +4,7 @@ Instale Windows 7, 10 ou 11 No batocera.Linux
 
 <h2>Modo de instalar</h2>
 
-<h3>Basta copiar o comando a baixo e colar no terminal do Batocera e dar enter,</h3>
+<h3>Basta copiar um dos comandos a baixo com a versão desejada, colar no terminal do Batocera e dar enter,</h3>
 <br><br>
 
 <br><br>
