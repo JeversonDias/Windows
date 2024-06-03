@@ -29,11 +29,11 @@ fi
 curl -o /userdata/system/configs/emulationstation/es_systems_microsoft.cfg https://raw.githubusercontent.com/JeversonDias/Windows/main/es_systems_microsoft.cfg
 
 # Navegar até o diretório e subir os containers
-cd /userdata/roms/microsoft/windows10 && docker-compose up & 
-sleep 10
+cd /userdata/roms/microsoft/windows10 && docker-compose up  
+
 
 # Abrir Firefox com o endereço localhost
-/userdata/system/pro/ffnightly/Launcher http://localhost:8006
+#/userdata/system/pro/ffnightly/Launcher http://localhost:8006
 
 
 
