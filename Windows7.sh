@@ -36,7 +36,6 @@ sleep 10
 # Abrir Firefox com o endereço localhost
 /userdata/system/pro/ffnightly/Launcher http://localhost:8006
 
-pkill xterm
 
-# Excluir todos  os containers 
+
 
