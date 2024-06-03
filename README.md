@@ -12,18 +12,18 @@ Instale Windows 7, 10 ou 11 No batocera.Linux
 ```bash
 curl -fsSL https://github.com/JeversonDias/Windows/raw/main/Windows7.sh | bash
 ```
-<br>
+<br><br>
 
 # Windows 10 pt-BR
 
 ```bash
 curl -fsSL https://github.com/JeversonDias/Windows/raw/main/Windows10.sh | bash
 ```
-<br>
+<br><br>
 
 # Windows 11 pt-BR
 
 ```bash
 curl -fsSL https://github.com/JeversonDias/Windows/raw/main/Windows11.sh | bash
 ```
-<br>
+<br><br>
