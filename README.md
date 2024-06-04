@@ -2,6 +2,12 @@
 Instale Windows 7, 10 ou 11 No batocera.Linux
 <br>
 
+
+# Nota
+<h2>Este experimento foi testado em minha máquina um Ryzen 3 2200G Apenas com o uso da GPU integrada</h2>
+
+
+
 <h2>Modo de instalar</h2>
 
 <h3>Basta copiar um dos comandos a baixo com a versão desejada, colar no terminal do Batocera e dar enter,</h3>
@@ -39,7 +45,7 @@ docker ps -a
 <br><br>
 ```bash
 docker rm -f Sua_Máquina
-``
+```
 
 <img src="https://drive.google.com/uc?id=1gMLGByp4-ofrglFx3KYcvFaXT6jQAinl" alt="Exemplo">
 <br><br>
