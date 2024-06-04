@@ -46,7 +46,7 @@ docker ps -a
 ```bash
 docker rm -f Sua_Máquina
 ```
-
+<br><br>
 <img src="https://drive.google.com/uc?id=1gMLGByp4-ofrglFx3KYcvFaXT6jQAinl" alt="Exemplo">
 <br><br>
 
