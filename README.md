@@ -1,5 +1,5 @@
 # Windows
-Instale Windows 7, 10 ou 11 No batocera.Linux
+<h2>Instale Windows 7, 10 ou 11 No batocera.Linux</h2>
 <br>
 
 
@@ -8,7 +8,7 @@ Instale Windows 7, 10 ou 11 No batocera.Linux
 <br><br>
 
 
-<h2>Modo de instalar</h2>
+# Modo de instalar
 <br>
 <h3>Basta copiar um dos comandos a baixo com a versão desejada, colar no terminal do Batocera e dar enter,</h3>
 <br><br>
