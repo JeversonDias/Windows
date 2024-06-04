@@ -5,11 +5,11 @@ Instale Windows 7, 10 ou 11 No batocera.Linux
 
 # Nota
 <h2>Este experimento foi testado em minha máquina um Ryzen 3 2200G Apenas com o uso da GPU integrada</h2>
-
+<br><br>
 
 
 <h2>Modo de instalar</h2>
-
+<br>
 <h3>Basta copiar um dos comandos a baixo com a versão desejada, colar no terminal do Batocera e dar enter,</h3>
 <br><br>
 
