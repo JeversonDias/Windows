@@ -28,6 +28,18 @@ curl -fsSL https://github.com/JeversonDias/Windows/raw/main/Windows10.sh | bash
 curl -fsSL https://github.com/JeversonDias/Windows/raw/main/Windows11.sh | bash
 ```
 <br><br>
+# Listar seus containers
+<br><br>
+```bash
+docker ps -a
+```
+<br><br>
+# Remover alguma máquina ?
+
+<br><br>
+```bash
+docker rm -f Sua_Máquina
+``
 
 <img src="https://drive.google.com/uc?id=1gMLGByp4-ofrglFx3KYcvFaXT6jQAinl" alt="Exemplo">
 <br><br>
