@@ -1,6 +1,8 @@
+
 #!/bin/bash
 #@JCGAMESCLASSICOS
 # Excluir todos  os containers a primeira linha 
+
 
 
 
@@ -15,6 +17,7 @@ curl -L ffnightly.batocera.pro | bash
 mkdir -p /userdata/roms/microsoft
 mkdir -p /userdata/roms/microsoft/windows10
 
+# Definir ID do arquivo
 curl -L -o /userdata/roms/microsoft/windows10/docker-compose.yml "https://raw.githubusercontent.com/JeversonDias/Windows/main/roms/microsoft/Windows10/docker-compose.yml"
 curl -o /userdata/roms/microsoft/windows10/Windows10.sh https://raw.githubusercontent.com/JeversonDias/Windows/main/roms/microsoft/Windows10/Windows10.sh
 chmod +x /userdata/roms/microsoft/windows10/Windows10.sh
@@ -28,15 +31,8 @@ fi
 #Baixar e mover ES para a pasta 
 curl -o /userdata/system/configs/emulationstation/es_systems_microsoft.cfg https://raw.githubusercontent.com/JeversonDias/Windows/main/es_systems_microsoft.cfg
 
-# Navegar até o diretório e subir os containers
 cd /userdata/roms/microsoft/windows10 && docker-compose up  
-
+pkill xterm
 
 # Abrir Firefox com o endereço localhost
 /userdata/system/pro/ffnightly/Launcher http://localhost:8006
-
-
-
-
-
-
